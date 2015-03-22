@@ -1,6 +1,8 @@
 grpc Examples
 ==============================================
 
+Place all contents of this repository under grpc-java directory.
+
 Assuming you are in the grpc-java root folder you would first start the route guide server
 by running
 
